@@ -1,4 +1,4 @@
-*.iml
+
 .gradle
 /local.properties
 /.idea/caches
@@ -32,4 +32,22 @@ app/build/outputs/
 .idea/deploymentTargetSelector.xml
 .idea/deviceManager.xml
 .idea/migrations.xml
+*.class
+*.dex
+*.apk
+*.ap_   # intermediate dex files
+*.javadoc
+.gradle-*.log
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
+*.tmp
+*.swp
+*.env
+*.properties
+.DS_Store
+Thumbs.db
+
 
